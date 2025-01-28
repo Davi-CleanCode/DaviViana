@@ -4,6 +4,8 @@
   </a>
 </div>
 
+##
+
 🧑‍💻📚 Atualmente estou estudando desenvolvimento FullStack e engenharia DevOps
 ##
 <div style="display: inline_block"><br>
@@ -26,7 +28,7 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davi-cleancode/davi-cleancode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davi-cleancode/davi-cleancode/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davi-cleancode/davi-cleancode/output/github-contribution-grid-snake.svg">
 </picture>
