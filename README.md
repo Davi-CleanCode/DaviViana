@@ -6,7 +6,15 @@
 
 ##
 
-🧑‍💻📚 Atualmente estou estudando desenvolvimento FullStack e engenharia DevOps
+🧑‍💻📚 Estudante de Gestão de Tecnologia e Informação pela a escola IMPACTA Tecnologia em SP.
+
+Atualmente não trabalho na area porém tenho imenso interrese em ingressar em cargos de tecnologia,
+
+Junto do ensino superior curso programção FullStack com foco em Python no institudo EBAC,
+e paralelamente faço curso profissionalizante em Gestão de Projetos no instituto DNC.
+
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
 ##
 <div style="display: inline_block"><br>
     <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
